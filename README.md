@@ -53,7 +53,7 @@ Content
 
 > Running Realflight model using SITL
 
-10.Flight Dyanmic Model of an Aircraft
+8.Flight Dyanmic Model of an Aircraft
 > FLight Dyanmic Eqautions
 
 > [JSBSIM](https://ardupilot.org/dev/docs/sitl-with-jsbsim.html)
